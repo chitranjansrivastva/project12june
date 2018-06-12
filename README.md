@@ -1,2 +1,2 @@
 # project12june
-git training
+- basic setup of projects
